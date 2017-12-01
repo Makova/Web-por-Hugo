@@ -1,0 +1,4 @@
+baseurl = "https://github.com/Makova/Web-por-Hugo"
+languageCode = "en-us"
+title = "Web de computing 4 Life por Manu"
+theme = "hugo-frais"

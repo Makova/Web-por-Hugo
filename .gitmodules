@@ -1,0 +1,3 @@
+[submodule "hugo-frais"]
+	path = hugo-frais
+	url = https://github.com/the2ne/hugo-frais
